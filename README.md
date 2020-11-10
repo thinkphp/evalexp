@@ -6,6 +6,6 @@
 
 * file.out -> (1+1)*13+10/2 = 31
 
-## Eval Exp in CPP
+## Eval Exp in c++
 
 https://ideone.com/0zIgnx
